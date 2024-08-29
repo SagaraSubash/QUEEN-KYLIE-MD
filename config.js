@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "KME0DDgJ#TiKPzKPwsVNiti7YmgXGi9g2u3JOYv3WxSmyLpsXF0Q",
+SESSION_ID: process.env.SESSION_ID || "5al2hb4a#28PqfYf98a609yqqCy9ZJNfr657PzJP-s3Ic-hNZuII",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/9b44e3266c065df601430.jpg",
 ALIVE_MSG: process.env.ALIVE_IMG || "🤖🔰 Hi QUEEN-KYLIE-MD Is Online Now 💻\n*💻 Owner* - QUEEN-KYLIE-MD\n\n*💻 Owner Number* -94718913389\n\n_විධාන මෙනුව ලබා ගැනීමට .menu ලෙස ටයිප් කරන්න._",
 SUDO_NB: process.env.SUDO_NB || "94760059126",
